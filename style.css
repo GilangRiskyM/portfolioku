@@ -1,22 +1,30 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
 * {
-    font-family: "Poppins", sans-serif;
-  }
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  background-color: #2a93d5;
+}
 
 .jumbotron {
-    padding-top: 5rem;
-    background-color: #e2edff;
+  padding-top: 5rem;
+  background-color: #aed9da;
 }
 
 #skills {
-    background-color: #e2edff;
+  background-color: #aed9da;
 }
 
 #contact {
-    background-color: #e2edff;
+  background-color: #aed9da;
 }
 
 section {
-    padding-top: 5rem;
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #2a93d5;
 }
